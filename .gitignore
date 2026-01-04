@@ -1,0 +1,23 @@
+# Environments
+venv/
+.env
+
+# Data and Models (Too large for standard Git)
+data/
+vector_store/
+*.parquet
+*.csv
+*.bin
+*.pkl
+
+# Python system files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+
+
+# Editor-specific
+.vscode/
+.idea/

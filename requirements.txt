@@ -1,0 +1,22 @@
+# Data Analysis & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# NLP & RAG Pipeline
+langchain
+langchain-community
+sentence-transformers
+chromadb
+faiss-cpu
+transformers
+sentencepiece
+
+# UI & Environment
+gradio
+python-dotenv
+
+# Testing
+pytest
